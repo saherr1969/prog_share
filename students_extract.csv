@@ -1,0 +1,27 @@
+student_id,first_name,last_name,gender,school,school_id,major,major_id
+1,Andrew,Alpha,Male,Business,100,"Information Systems",103
+2,Bendi,Beta,Female,"Liberal Arts",200,English,201
+3,Charley,Beta,Female,Engineering,300,Industrial,303
+4,Danny,Charlie,Male,Business,100,Economics,102
+5,Erin,Charlie,Female,"Liberal Arts",200,English,201
+6,Finley,Charlie,Male,Engineering,300,Chemical,302
+7,Greg,Delta,Male,Business,100,Management,101
+8,Holly,Echo,Female,"Liberal Arts",200,Ethics,203
+9,Iris,Foxtrot,Female,Engineering,300,Civil,301
+10,Jake,Golf,Male,Agriculture,400,"Research & Development",401
+11,Kelly,Hotel,N/A,Mathematics,500,Algebra,501
+12,Lilly,India,Female,Education,600,"Greater Education",602
+13,Merideth,Juliett,Female,Business,100,Economics,102
+14,Nina,Kilo,Female,"Liberal Arts",200,Ethics,203
+15,Olga,Lima,Female,Engineering,300,Chemical,302
+16,Perry,Lima,Male,Agriculture,400,"Poultry Science",402
+17,Quincy,Lima,Male,Mathematics,500,"Calculus ",502
+18,Ralph,Mike,Male,Education,600,"Primary School",601
+19,Staci,November,Female,Business,100,"Information Systems",103
+20,Tracy,Oscar,Male,"Liberal Arts",200,Anthropology,202
+21,Umar,Papa,Male,Engineering,300,Industrial,303
+22,Venny,Quebec,Male,Agriculture,400,Sustainability,403
+23,Willy,Tango,Male,Mathematics,500,Modeling,503
+24,Xan,Tango,N/A,Education,600,"Primary School",601
+25,Yvette,Tango,Female,Business,100,"Information Systems",103
+26,Zack,Tango,Male,Business,100,Management,101
